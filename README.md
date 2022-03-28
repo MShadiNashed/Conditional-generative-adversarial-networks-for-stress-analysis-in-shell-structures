@@ -1,0 +1,1 @@
+# Conditional-generative-adversarial-networks-for-stress-analysis-in-shell-structures
