@@ -1,0 +1,1 @@
+To generate images from finite elments data run ImportTXTtoMatrix.m. this file read NodalDeflection and ForceLocs in the same folder and convert them into RGB images. The file create counters with files names such as 1_1_3_1_5. if file data exists in the folder it will be used in conversion, otherwaise the data will be consider 0.
